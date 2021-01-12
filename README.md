@@ -16,4 +16,6 @@ Connect your phone using Adb to your PC. https://developer.android.com/studio/co
 
 ### If you are on a Windows Machine. 
 
+##### https://github.com/Jay-2512/Snoy-Xperia-X-Compact-Japanese-Debloater.git
+
 1. ```Download the .bat file and double click to run that!```
